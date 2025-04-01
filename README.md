@@ -1,5 +1,4 @@
 # Opening_Shift
-This will serve as the repository for our VR project
 # Opening Shift (VR Game) is a virtual reality coffee shop simulation built in Unity. It puts the player in the role of a barista starting their morning shift, where they prepare drinks, interact with equipment, and work in a fully VR environment.
 
 This was developed as part of a college game development project to explore immersive interaction and gameplay in VR.
