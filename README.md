@@ -7,14 +7,14 @@ This was developed as part of a college game development project to explore imme
 What This Project Is About- 
 The goal was to create an interactive and semi-realistic VR experience using Unity's XR Interaction Toolkit. We focused on building out the drink-making system and making the environment feel responsive to the player.
 
-  Tools & Tech
+  #Tools & Tech
 - Unity (2023.xx)
 - C#
 - XR Interaction Toolkit
 - OpenXR (for headset support)
 - Git / GitHub
 
-  Features So Far
+  #Features So Far
 - Grabbable and interactive objects (cups, coffee pot, milk steamer)
 - Basic drink-making logic (pickup, pour, steam, serve)
 - Functional VR rig with controller-based input
@@ -22,7 +22,7 @@ The goal was to create an interactive and semi-realistic VR experience using Uni
 - Convincing scenery with moving traffic
 - Interactable in-game UI for the POS system
 
-  Still in Progress
+  #Still in Progress
 - Drink recipes and scoring system
 - Customer interaction system
 - UI improvements and better sound design
