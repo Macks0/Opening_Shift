@@ -4,7 +4,7 @@ This will serve as the repository for our VR project
 
 This was developed as part of a college game development project to explore immersive interaction and gameplay in VR.
 
-  What This Project Is About
+What This Project Is About- 
 The goal was to create an interactive and semi-realistic VR experience using Unity's XR Interaction Toolkit. We focused on building out the drink-making system and making the environment feel responsive to the player.
 
   Tools & Tech
